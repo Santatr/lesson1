@@ -1,4 +1,2 @@
-data("mtcars")
-plot(mtcars$mpg, mtcars$hp)
+# Removed code
 
-#okok 
